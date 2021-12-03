@@ -4,7 +4,7 @@ const fs = require("fs");
 // const { readFromFile, readAndAppend } = require("../helpers/fsUtils");
 
 const app = express();
-const PORT = 3001;
+const PORT = 5000;
 
 app.use(express.static("public"));
 app.use(express.json());

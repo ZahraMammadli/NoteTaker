@@ -20,8 +20,8 @@
 
 ## Screenshots
 
-![screenshot2](./assets/images/screenshot-2.png)
-![screenshot3](./assets/images/screenshot-1.png)
+![screenshot2](./public/assets/images/screenshot-2.png)
+![screenshot3](.public/assets/images/screenshot-1.png)
 
 ## User Story
 
